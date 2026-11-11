@@ -1,28 +1,29 @@
-# skills
+# Skills
 
-Kumpulan agent skill untuk Claude Code (dan agent lain yang membaca format `SKILL.md`).
+Kumpulan skill untuk agent AI seperti Claude Code, Codex, dan agent lain yang membaca format `SKILL.md`.
+
+## Pasang
+
+```bash
+npx skills@latest add rahmanramsi/skills
+```
+
+Untuk memasang satu skill saja:
+
+```bash
+npx skills@latest add rahmanramsi/skills --skill best-practices
+```
+
+Kalau kamu tidak terbiasa memakai terminal, tempel perintah ini ke agent AI-mu, misalnya Codex atau Claude Code:
+
+```text
+Pasang skill best-practices dengan menjalankan perintah ini di terminal: npx skills@latest add rahmanramsi/skills --skill best-practices -g -y. Setelah selesai, beri tahu aku apakah skill-nya sudah terpasang.
+```
 
 ## Daftar skill
 
-| Skill | Fungsi |
-|---|---|
-| [`communication`](skills/communication/SKILL.md) | Menulis dan memperbaiki **script komunikasi lisan** (presentasi, pitch, video konten, sambutan, update meeting, jawaban interview, webinar, telepon) lengkap dengan cue cara mengucapkannya. Juga bisa menguji script lewat rekaman pembacaannya dan memberi coaching delivery. |
-
-## Instalasi
-
-Salin atau symlink folder skill ke direktori skills Claude Code:
-
-```bash
-git clone <url-repo-ini> ~/Projects/skills
-
-# salin
-cp -R ~/Projects/skills/skills/communication ~/.claude/skills/
-
-# atau symlink, supaya update di repo langsung terpakai
-ln -s ~/Projects/skills/skills/communication ~/.claude/skills/communication
-```
-
-Untuk satu proyek saja, taruh di `.claude/skills/` di dalam proyek tersebut.
+- **[best-practices](./skills/best-practices/SKILL.md)**: mencari dan menilai praktik kerja terbaik untuk tugasmu, lengkap dengan sumber, kekuatan bukti, dan cara mengujinya.
+- **[communication](./skills/communication/SKILL.md)**: menulis dan memperbaiki script komunikasi lisan, seperti presentasi, pitch, video konten, dan sambutan, lengkap dengan cue cara mengucapkannya.
 
 ## Skill `communication`
 
