@@ -24,6 +24,7 @@ Pasang skill best-practices dengan menjalankan perintah ini di terminal: npx ski
 
 - **[best-practices](./skills/best-practices/SKILL.md)**: mencari dan menilai praktik kerja terbaik untuk tugasmu, lengkap dengan sumber, kekuatan bukti, dan cara mengujinya.
 - **[communication](./skills/communication/SKILL.md)**: menulis dan memperbaiki script komunikasi lisan, seperti presentasi, pitch, video konten, dan sambutan, lengkap dengan cue cara mengucapkannya.
+- **[sistem-konten](./skills/sistem-konten/SKILL.md)**: sistem membuat konten media sosial dari niche dan audiens, rencana dengan content funnel, riset referensi, script Hook-Tension-Payoff-Call to value, sampai verdict performa. Alurnya diadaptasi dari The Ultimate Content Creation Toolkit karya [Bukan Cuma Posting](https://bukancumaposting.com).
 
 ## Skill `communication`
 
