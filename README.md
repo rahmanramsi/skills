@@ -106,3 +106,7 @@ skills/communication/
 ### Sumber
 
 Kerangka di skill ini diringkas dan diparafrasekan dari kursus **STAGE Academy** karya **Vinh Giang** ([vinhgiang.com](https://www.vinhgiang.com)). Repo ini tidak berafiliasi dengan STAGE Academy, dan tidak berisi transkrip atau materi asli kursus. Untuk materi lengkapnya, ikuti kursusnya langsung.
+
+## Lisensi
+
+[MIT](./LICENSE). Kerangka dari pihak lain yang disebut di masing-masing skill tetap milik pemiliknya.
