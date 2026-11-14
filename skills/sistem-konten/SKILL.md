@@ -59,3 +59,5 @@ Sebelum menyerahkan hasil, cek:
 - Komposisi rencana masuk akal untuk waktu produksi pengguna.
 - Tidak ada angka, testimoni, atau klaim yang tidak bisa dibuktikan pengguna.
 - Bahasa terdengar seperti pengguna, bukan seperti template.
+
+Kalau naskah terasa datar, pakai cek opsional SUCCESs di [brief-htpc.md](references/brief-htpc.md).

@@ -65,3 +65,18 @@ Buat 3 versi:
 - **Panjang:** 300 sampai 500 karakter, untuk konten Authority.
 
 Baris pertama setiap versi harus sekuat hook video, karena hanya baris itu yang terlihat sebelum "more". Tambahkan jeda baris supaya mudah dibaca, satu call to value di akhir, dan maksimal 5 hashtag (campuran niche dan umum). Untuk konten Sales, bangun rasa penasaran dulu sebelum mengarahkan ke link.
+
+## Cek opsional: SUCCESs
+
+Pakai checklist ini sebagai alat bantu, bukan syarat. Kalau naskah terasa datar atau tidak nempel, cek mana yang belum terpenuhi. Kerangka ini dari buku Made to Stick karya Chip Heath dan Dan Heath.
+
+| Prinsip | Pertanyaan cek |
+|---|---|
+| Simple | Apa satu pesan inti yang harus diingat penonton? |
+| Unexpected | Bagian mana yang mematahkan dugaan penonton atau membuat mereka penasaran? |
+| Concrete | Ada contoh nyata yang bisa dibayangkan, misalnya laporan, grup WhatsApp, atau slide sungguhan? |
+| Credible | Apa yang membuat penonton percaya: before-after, demo, atau sesuatu yang bisa mereka coba sendiri? |
+| Emotional | Kenapa penonton harus peduli? Apa untungnya bagi mereka? |
+| Stories | Ada cerita atau momen nyata yang membawa pesannya? |
+
+Tidak semua prinsip harus ada di setiap konten. Sebutkan prinsip yang lemah dan beri satu saran perbaikan untuk masing-masing.
